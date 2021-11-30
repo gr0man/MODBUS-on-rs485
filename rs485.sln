@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rs485", "rs485\rs485.vcproj", "{DA0C3BE5-FD9F-4D93-B10C-F7DCDC020C21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+		TEST debug|Win32 = TEST debug|Win32
+		TEST|Win32 = TEST|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA0C3BE5-FD9F-4D93-B10C-F7DCDC020C21}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DA0C3BE5-FD9F-4D93-B10C-F7DCDC020C21}.Debug|Win32.Build.0 = Debug|Win32
+		{DA0C3BE5-FD9F-4D93-B10C-F7DCDC020C21}.Release|Win32.ActiveCfg = Release|Win32
+		{DA0C3BE5-FD9F-4D93-B10C-F7DCDC020C21}.Release|Win32.Build.0 = Release|Win32
+		{DA0C3BE5-FD9F-4D93-B10C-F7DCDC020C21}.TEST debug|Win32.ActiveCfg = TEST debug|Win32
+		{DA0C3BE5-FD9F-4D93-B10C-F7DCDC020C21}.TEST debug|Win32.Build.0 = TEST debug|Win32
+		{DA0C3BE5-FD9F-4D93-B10C-F7DCDC020C21}.TEST|Win32.ActiveCfg = TEST|Win32
+		{DA0C3BE5-FD9F-4D93-B10C-F7DCDC020C21}.TEST|Win32.Build.0 = TEST|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
